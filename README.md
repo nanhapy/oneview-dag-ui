@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 ## Debug
 
 `npm install`
+
 `npm run dev`
 
 ## React Compiler
